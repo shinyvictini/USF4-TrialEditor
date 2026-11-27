@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+
+# Local application data
+config.json
+backups/
+originals/
+working/
+
+# Original game assets
+*.clg
+*.emz
+*.emb
+*.gfx
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini

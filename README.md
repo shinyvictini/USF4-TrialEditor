@@ -4,6 +4,20 @@ A Windows application for creating and editing character trials in Ultra Street 
 
 Build your own combos, time yourself and challenge your friends.
 
+## Screenshots
+
+### Trial Editor
+![Trial Editor](screenshots/editor.PNG)
+
+### Expanded Trial Selection
+![Expanded Trial Selection](screenshots/trial_menu.PNG)
+
+### Expanded In-Game Trial HUD
+![Expanded Trial HUD](screenshots/trial_game.PNG)
+
+### Demo
+https://www.youtube.com/watch?v=1Fj4ScqiM5A
+
 
 ## Features
 
